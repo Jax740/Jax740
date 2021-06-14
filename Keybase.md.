@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am jax740 on github.
+  * I am jax513 (https://keybase.io/jax513) on keybase.
+  * I have a public key ASCrTk7fMy6e__OQhHp-uRyyjkwUVc_lkjlVUVmtesZvTgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ab4e4edf332e9efff390847a7eb91cb28e4c1455cfe59239555159ad7ac66f4e0a",
+      "host": "keybase.io",
+      "kid": "0120ab4e4edf332e9efff390847a7eb91cb28e4c1455cfe59239555159ad7ac66f4e0a",
+      "uid": "02bfe472f3e7a53121c9bbd46eae2219",
+      "username": "jax513"
+    },
+    "merkle_root": {
+      "ctime": 1623666724,
+      "hash": "77d426863787a4e34433926ac0b97e346887385044fc143e808a061659988745aa4610895154789603edec6d0d7c8c24d71e119bb8782d49e2670e9d62c38f50",
+      "hash_meta": "d3dc5e24426b2b2dd1c7cda39569669ae2277f35f756624f3038f4a7480b960c",
+      "seqno": 20177975
+    },
+    "service": {
+      "entropy": "FLZyx94f4kGvjS6f063gH/3y",
+      "name": "github",
+      "username": "jax740"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1623666741,
+  "expire_in": 504576000,
+  "prev": "ee6a08073338dee3305ba25badffb3319f437160c2fbf94e5f5f806be3276f9e",
+  "seqno": 27,
+  "tag": "signature"
+}
+```
+
+with the key [ASCrTk7fMy6e__OQhHp-uRyyjkwUVc_lkjlVUVmtesZvTgo](https://keybase.io/jax513), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgq05O3zMunv/zkIR6frkcso5MFFXP5ZI5VVFZrXrGb04Kp3BheWxvYWTESpcCG8Qg7moIBzM43uMwW6Jbrf+zMZ9DcWDC+/lOX1+Aa+Mnb57EIE+C+F6OXCjYwCbT5d61E+spOb4hOlSqvnpHKzZ53CW0AgHCo3NpZ8RAj3y8ouQIEGIb94PjxGry8PRPKW3wCI8m8gMBojbbaBquwG61mZJpk9tlpCjPsVVbGiLulIyemTRLwOKLaMcCAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMhv1TckLjv6ZwhAtuQT17eYMDSGErOG6CExGmDTOi6Vo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jax513
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jax513
+```
